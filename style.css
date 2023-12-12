@@ -39,6 +39,7 @@ body{
   border-radius: 7px;
   cursor: pointer;
   text-transform: uppercase;
+  border: none;
 }
 
 .button:hover{
